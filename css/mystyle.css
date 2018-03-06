@@ -1,0 +1,166 @@
+/******************************************************************************
+ * Tweaks to the "black" reveal.js stylesheet
+ *****************************************************************************/
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+#logos {
+  height: 175px;
+  display: block;
+}
+
+#logos img {
+  background: rgba(0, 0, 0, 0);
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+  border-width: 0;
+  vertical-align: middle;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+p.small {
+  font-size: 50%;
+}
+
+.reveal {
+  font-family: 'Lato Light', 'Source Sans Pro', Helvetica, sans-serif;
+}
+
+.reveal figure {
+  height: 300px;
+}
+
+.reveal img {
+  height: 100%;
+}
+
+.reveal p {
+  text-align: center;
+}
+
+.reveal .titlepage p {
+  text-align: center;
+}
+
+.reveal strong, .reveal b {
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+}
+
+.reveal q {
+  quotes: '“' '”' "‘" "’";
+  font-style: inherit;
+}
+
+.reveal cite {
+  font-style: normal;
+  font-size: 66%;
+}
+
+cite.attribution {
+  font-size: 50%;
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+  text-transform: none;
+}
+
+.reveal section video {
+  margin: 15px 0px;
+  background: rgba(255, 255, 255, 0.12);
+  border: 4px solid #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
+
+
+math {
+  font-family: 'Latin Modern Math';
+}
+/*
+.reveal h1 {
+  font-size: 220%;
+}
+*/
+
+.smallfig img {
+  height: 200px;
+}
+
+#titletext {
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+div#cond-no > figure {
+  height: 200px;
+}
+
+div#qrcode > figure {
+  height: 180px;
+  margin-bottom: 20px;
+}
+
+/* Colorbrewer "Set1" colors */
+.red {
+  color: #e41a1c;
+}
+
+.blue {
+  color: #377eb8;
+}
+
+.green {
+  color: #4daf4a;
+}
+
+.purple {
+  color: #984ea3;
+}
+
+.orange {
+  color: #ff7f00;
+}
+
+.yellow {
+  color: #ffff33;
+}
+
+.brown {
+  color: #a65628;
+}
+
+.pink {
+  color: #f781bf;
+}
+
+/* Other colors */
+
+.lightgreen {
+  color: #1fe522;
+}
+
+.lightpurple {
+  color: #beaed4;
+}
+
+/* "Classical Fisher" purple */
+.cfpurple {
+  color: #8da0cb;
+}
+
+.center {
+  text-align: center;
+}
+
+mtext {
+  font-family: 'Lato Light', 'Source Sans Pro', Helvetica, sans-serif;
+}
