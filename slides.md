@@ -71,12 +71,6 @@ Gives valuable information about
   programs with random data*,
   arXiv:[1303.6672](https://arxiv.org/abs/1303.6672).</cite>
 
-## Measurements also important!
-
-![](img/metrics.svg)
-
-Applications entail measurements, which complicate the geometry!
-
 ## Fisher information dictates geometry
 
 ![](img/spherical-cone-not-squished.svg)
@@ -128,15 +122,6 @@ $\operatorname{min}\kappa=3$
 ![](img/sic-full-cond-number-vis.svg)
 
 Ellipses at 25th and 75th percentiles
-
-## Ignoring stretching causes errors
-
-![](img/exact-vs-heuristic-mses.svg)
-
-<cite>*Efficient method for computing the maximum-likelihood quantum state from
-measurements with additive Gaussian noise*, Smolin *et al.*,
-Phys Rev. Lett. **108**,
-[070502](https://doi.org/10.1103/PhysRevLett.108.070502) (2017).</cite>
 
 ## Ignoring stretching causes errors
 
